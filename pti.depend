@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1751240830 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion\programacion 1\pti\pti\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	"funciones.h"
+	"fun_juego.h"
+	"rlutil.h"
+
+1751235865 c:\users\admin\onedrive\escritorio\utn frgp\programacion\programacion 1\pti\pti\funciones.h
+	<time.h>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1751240550 c:\users\admin\onedrive\escritorio\utn frgp\programacion\programacion 1\pti\pti\fun_juego.h
+
+1750687142 c:\users\admin\onedrive\escritorio\utn frgp\programacion\programacion 1\pti\pti\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1751251650 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion\programacion 1\pti\pti\fun_juego.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+	"fun_juego.h"
+
+1750690954 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion\programacion 1\pti\pti\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<ctime>
+
